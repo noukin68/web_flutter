@@ -468,8 +468,9 @@ class _RegisterCardState extends State<RegisterCard> {
                                               ),
                                             ),
                                             style: ElevatedButton.styleFrom(
-                                              primary: const Color.fromRGBO(
-                                                  100, 100, 100, 1),
+                                              backgroundColor:
+                                                  const Color.fromRGBO(
+                                                      100, 100, 100, 1),
                                               shape: RoundedRectangleBorder(
                                                 borderRadius:
                                                     BorderRadius.circular(30.0),
@@ -492,8 +493,9 @@ class _RegisterCardState extends State<RegisterCard> {
                                               ),
                                             ),
                                             style: ElevatedButton.styleFrom(
-                                              primary: const Color.fromRGBO(
-                                                  100, 100, 100, 1),
+                                              backgroundColor:
+                                                  const Color.fromRGBO(
+                                                      100, 100, 100, 1),
                                               shape: RoundedRectangleBorder(
                                                 borderRadius:
                                                     BorderRadius.circular(30.0),
